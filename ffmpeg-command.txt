@@ -1,0 +1,1 @@
+ffmpeg -i video.mp4 -filter_complex "[v]eq=contrast=1.5[v1];[v1]scale=128:64[v2];[v2]setsar=1:1[v3]" -an -map [v3] -movflags frag_keyframe+empty_moov -pix_fmt yuv420p -f mp4 some_video.mp4
