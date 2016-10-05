@@ -11,6 +11,8 @@ Yes cause why not?
  - ???
  - Profit!
 
+![](https://www.squirrel-labs.net/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/d/s/dsc_0018_1.jpg)
+
 ![](https://cdn-learn.adafruit.com/guides/images/000/000/633/medium800/DSC00469_copy.jpg?1448301844)
 
 #### @hojiefeng & @ragulbalaji 2016
